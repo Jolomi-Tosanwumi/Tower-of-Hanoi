@@ -7,6 +7,6 @@ The Tower of Hanoi (also called The problem of Benares Temple or Tower of Brahma
 Only one disk may be moved at a time.
 Each move consists of taking the upper disk from one of the stacks and placing it on top of another stack or on an empty rod.
 No disk may be placed on top of a disk that is smaller than it.
-With 3 disks, the puzzle can be solved in 7 moves. The minimal number of moves required to solve a Tower of Hanoi puzzle is 2n − 1, where n is the number of disks.
+With 3 disks, the puzzle can be solved in 7 moves. The minimal number of moves required to solve a Tower of Hanoi puzzle is 2^n − 1, where n is the number of disks.
 
 In this repository, I used python to implement the solution to the problem for 1<=n<=5. Just catching some fun on holiday :).
